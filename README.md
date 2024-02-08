@@ -1,2 +1,3 @@
 # PrepCourse-Henry
-Repositorio del modulo 2 del PrepCourse de Soy Henry 
+Esta prueba es de como crear un repositorio y clonar desde mi github a mi computadora
+
